@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(54, 170, 9);
+   }
+
+h1 {
+	background-color: rgb(184, 11, 112);
+    color: rgb(3, 36, 37);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 60px;
+    background-image:url("textura.jpg");
+    margin: 10px ;
+    border-style: double;
+    border-width: 10px;
+    border-color: lightblue;
+    padding: 25px;
+    border-radius: 25px;
+}
+
+p {
+    background-color: rgb(10, 71, 141);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(236, 236, 236);
+    margin: 10px;
+    border-style:groove;
+    border-width: 5px;
+    padding: 25px;
+    border-radius: 10px;
+
+}
+
+h2{
+    background-color: rgb(202, 81, 0);
+    color: rgb(233, 245, 191);
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 10px;
+    border-style:ridge;
+    border-width: 5px;
+    border-radius: 25px;
+    padding: 30px;
+    width: 900px;
+}
