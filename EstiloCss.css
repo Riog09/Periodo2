@@ -1,5 +1,8 @@
 body {
  background-image: url(https://www.xtrafondos.com/descargar.php?id=5313&resolucion=2560x1440);
+	background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
 }
    }
 
